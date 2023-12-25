@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BeautySpecialist.cs" />
+    <Compile Include="Booking.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="IPerson.cs" />
+    <Compile Include="IPrint.cs" />
+    <Compile Include="Procedure.cs" />
+    <Compile Include="ProcedureTypes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

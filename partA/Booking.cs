@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace partA
 {
-    public class Booking
+    public class Booking : IPrint
     {
         public BeautySpecialist BeautySpecialist { get; set; }
         public Client Client { get; set; }
@@ -14,6 +14,11 @@ namespace partA
         public Procedure Procedure { get; set; }
 
         public Booking(Client client, Procedure procedure, DateTime bookingTime, BeautySpecialist beautySpecialist)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Booking(Procedure procedure, BeautySpecialist beautySpecialist)
         {
             throw new NotImplementedException();
         }

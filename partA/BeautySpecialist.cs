@@ -22,6 +22,31 @@ namespace partA
             throw new NotImplementedException();
         }
 
+        public decimal CalculateMonthSalary(DateTime month)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Booking> GetBookingsForMonth(DateTime month)
+        {
+            throw new NotImplementedException ();
+        }
+
+        public void AddProcedure(Booking booking)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RemoveProcedure(Booking booking)
+        {
+            throw new NotImplementedException();
+        }
+
+        public BeautySpecialist()
+        {
+            throw new NotImplementedException();
+        }
+
         public void DisplayInfo()
         {
             throw new NotImplementedException();

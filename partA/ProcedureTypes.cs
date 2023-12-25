@@ -8,16 +8,7 @@ namespace partA
 {
     public enum ProcedureTypes
     {
-        HairCut,
-        HairColoring,
-        Manicure,
-        Pedicure,
-        MakeUp,
-        LipsInjection,
-        Lashes,
-        BrowTattoo,
-        BrowDye,
-        BrowsLamin
+        
     }
 
 }
