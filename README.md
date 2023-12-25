@@ -41,4 +41,5 @@
 7. Класи `Procedure` та `Booking` реалізують інтерфейс `IPrint`.
 
 
-![image](https://github.com/dshgrk/Project_partA_-_program/assets/149286064/10bf7c8f-a070-4d14-b6da-63693d2afc7c)
+![image](https://github.com/dshgrk/Project_partA_-_program/assets/149286064/1701bb92-9ebd-4eab-84ea-db8f4838e76e)
+
