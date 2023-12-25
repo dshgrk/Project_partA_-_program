@@ -1,0 +1,1 @@
+# Project_partA_Гірка_program
