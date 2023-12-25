@@ -40,6 +40,5 @@
 6. Класи `Client` та `BeautySpecialist` реалізують інтерфейс `IPerson`.
 7. Класи `Procedure` та `Booking` реалізують інтерфейс `IPrint`.
 
-
-![image](https://github.com/dshgrk/Project_partA_-_program/assets/149286064/1701bb92-9ebd-4eab-84ea-db8f4838e76e)
+![image](https://github.com/dshgrk/Project_partA_-_program/assets/149286064/62f759c7-3cb3-47ac-9985-5ea4e37f2c71)
 
